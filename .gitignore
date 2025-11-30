@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.egg-info/
+*.egg
+*.dist-info/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Output files
+*.out
+*.pdf
+*.png
+
+# Build / distribution folders
+build/
+dist/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# My local files
+*.sqlite
+*.db
+*.bak
+*.tmp
